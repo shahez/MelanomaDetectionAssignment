@@ -42,6 +42,6 @@ The initial model achieved an accuracy of around 75-80% on the validation set, w
 - Collect more diverse and balanced data to further improve model performance.
 
 ## References
-- [Dataset Source]
-- [Related Research Papers]
+- [Dataset Source](https://www.isic-archive.com/)
+- [Related Research Papers](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8160886/)
 - [Augmentor Library](https://augmentor.readthedocs.io/en/master/)
