@@ -1,4 +1,3 @@
-# MelanomaDetectionAssignment
 # Melanoma Detection using CNN
 
 ## Problem Statement
